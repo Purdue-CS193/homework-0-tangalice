@@ -1,6 +1,8 @@
-## Alice Tang's First CS193 Homework
+## homework-0-tangalice
 
-### My Favorite Things About CS 193
+### Alice Tang's First CS193 Homework
+
+#### My Favorite Things About CS 193
 - the microphone that works 😍
 - the magic word that we use for attendance quizzes
 - stuff
